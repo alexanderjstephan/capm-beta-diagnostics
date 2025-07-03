@@ -31,6 +31,12 @@ MIT License
 ## Credits
 - **Data:** Yahoo Finance
 - **Libraries:** pandas, yfinance, numpy, matplotlib, seaborn, scipy, jupyter
+- **Background Reading:**
+  - Capital Asset Pricing Model (CAPM): Definition, Formula, and Assumptions, Investopedia
+  - Regression diagnostics:  testing the assumptions of linear regression, Duke University
+  - The Breusch-Pagan Test: Definition & Example, Statology
+  - Understanding QQ Plots, UVA Library
+  - Durbin Watson Statistic, Corporate Finance Institute
 - **Author:** Alexander Stephan
 
 ## Last Updated
